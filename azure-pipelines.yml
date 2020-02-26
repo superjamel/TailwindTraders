@@ -1,7 +1,7 @@
 variables:
   azureSubscription: AppDevServiceConnection
   resourcegroup: RG-Tailwindtraders
-  location: West-Europe
+  location: West Europe
   ImageName: website
 
 steps:
